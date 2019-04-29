@@ -1,28 +1,32 @@
+Kita akan belajar mengenai salah satu framework python yaitu django, untuk tugas latihan dan penilaian akhir silakan ikuti tutorial ke 4. Django Tutorial http://tutorial.djangogirls.org/en/index.html
 
+Ikuti langkah-langkahnya dengan seksama, jika ada kesulitan silakan di konsultasikan ke saya langsung dan nanti kita akan bahas mengenai django lebih dalam di kelas.
+
+------------------------------------------------------------------------------------------------------------------------
 Django Indonesia
-https://telegram.me/DjangoID
+https://telegram.me/DjangoID (gabung dengan grupnya di telegram)
 
 Untuk memulai belajar, berikut ada beberapa rekomendasi: 
 
 
 IDE / Editor
 
-    Pycharm
-    VSCode + Python Plugin
+    1. Pycharm
+    2. VSCode + Python Plugin
 
 
 Tutorial
 
-    Kitab Suci Django http://www.djangoproject.com
-    Develop Website dengan Django dan TDD http://www.obeythetestinggoat.com/
-    Terjun ke Project Django http://www.tangowithdjango.com/book17/
-    Django Tutorial http://tutorial.djangogirls.org/en/index.html
-    TaskBuster Django Tutorial. Django 1.8 & Python 3. http://www.marinamele.com/taskbuster-django-tutorial
-    Become a Django Superstar https://ultimatedjango.com/
-    Tempat diskusi developer Django http://www.reddit.com/r/django
-    List library Django https://github.com/rosarior/awesome-django https://djangopackages.org/packages/
-    Snippet Django https://djangosnippets.org/
-    Cara deploy Django https://github.com/rogueleaderr/definitive_guide_to_django_deployment
+    1. Kitab Suci Django http://www.djangoproject.com
+    2. Develop Website dengan Django dan TDD http://www.obeythetestinggoat.com/
+    3. Terjun ke Project Django http://www.tangowithdjango.com/book17/
+    4. Django Tutorial http://tutorial.djangogirls.org/en/index.html
+    5. TaskBuster Django Tutorial. Django 1.8 & Python 3. http://www.marinamele.com/taskbuster-django-tutorial
+    6. Become a Django Superstar https://ultimatedjango.com/
+    7. Tempat diskusi developer Django http://www.reddit.com/r/django
+    8. List library Django https://github.com/rosarior/awesome-django https://djangopackages.org/packages/
+    9. Snippet Django https://djangosnippets.org/
+    10. Cara deploy Django https://github.com/rogueleaderr/definitive_guide_to_django_deployment
 
 
 Video
